@@ -12,7 +12,7 @@
 
 <div align=center>
   
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Swift-20c997?style=flat-square&logo=Swift&logoColor=white"/></a>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Swift-#FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
 
 </div>
 
