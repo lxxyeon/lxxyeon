@@ -5,16 +5,14 @@
 ❤️ Welcome❤️
 </h2>
 
+<div align=center>
 iOS 공부중
-
+</div>
 
 <div align=center>
-
   
 <img src="https://img.shields.io/badge/iOS-black?style=flat&logo=Apple&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/ObjC-blue?style=flat"/>
 
 </div>
