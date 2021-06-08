@@ -1,10 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header)
 
-<!-- <p align="right"> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars)
-<!-- </p> -->
+<div align=center>
+❤️Welcome❤️
+</div>
+
+<div align=center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars)</div>
 
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header)
+<!-- 
  -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?text=Welcome&fontSize=30&rotate=-35) -->
@@ -16,11 +20,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars"/>
 </a> -->
 
-<!-- <div align=center>
-  ❤️  Welcome❤️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars)
-
-  </div> -->
   
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars" />
@@ -29,12 +28,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a> -->
 
-  
-  
-  
-  
-  
-  
   
 <!--
 
