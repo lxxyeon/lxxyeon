@@ -5,7 +5,9 @@
 </div>
 
 <h2 align=center>
+  <span style="color:yellow">
 Welcome
+   </span>
 </h2>
 
 <div align=center>
