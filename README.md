@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars"/>
 </a> -->
 
-<div align = center>
+<div align=center>
   ❤️  Welcome❤️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars)
 
