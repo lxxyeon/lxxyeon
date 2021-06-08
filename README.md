@@ -1,5 +1,8 @@
+<div align=center>
+  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=150&section=header)
 
+</div>
 
 <h2 align=center>
 ❤️ Welcome❤️
