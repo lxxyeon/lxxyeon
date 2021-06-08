@@ -12,8 +12,6 @@
 
 <div align=center>
 
-[!test](http://img.shields.io/badge/language-swift-orange&logo=#FA7343&logoColor=orange)
-  
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="http://img.shields.io/badge/language-swift-orange&logo=Swift&logoColor=orange"/></a>
 </div>
 
