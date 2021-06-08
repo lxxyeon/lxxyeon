@@ -39,7 +39,7 @@ iOS 공부중
 
 <div align=center>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lxxyeon&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lxxyeon&repo=Swift&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
