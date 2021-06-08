@@ -32,16 +32,16 @@ iOS 공부중
 
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=false&theme=material-palenight&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=false&theme=default&hide=stars,contribs)
 
 </div>
 
 
-<div align=center>
+<!-- <div align=center>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lxxyeon&repo=Swift&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</div> -->
 
 
 
