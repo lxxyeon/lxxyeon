@@ -1,7 +1,7 @@
 
-<p align="right">
+<!-- <p align="right"> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars)
-</p>
+<!-- </p> -->
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header)
