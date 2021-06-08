@@ -37,6 +37,13 @@ iOS 공부중
 </div>
 
 
+<div align=center>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lxxyeon&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 
 <!--
 **lxxyeon/lxxyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
