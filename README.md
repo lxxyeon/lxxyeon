@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white&link=https://velog.io/@new_wisdom"/>
   
-<img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white&link=https://velog.io/@new_wisdom"/>
+<img src="https://img.shields.io/badge/Objective-C-blue?style=flat&logo=ios&logoColor=white"/>
   
 <!-- <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white&link=https://velog.io/@new_wisdom"/></a>
    -->
