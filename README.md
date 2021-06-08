@@ -12,7 +12,7 @@
 
 <div align=center>
 
-[!뱃지이름](http://img.shields.io/badge/language-swift-orange&logo=#FA7343&logoColor=orange)
+[!test](http://img.shields.io/badge/language-swift-orange&logo=#FA7343&logoColor=orange)
   
 </div>
 
