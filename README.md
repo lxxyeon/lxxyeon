@@ -8,7 +8,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars"/>
 </a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=true&theme=buefy&hide=stars)
