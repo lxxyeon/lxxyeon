@@ -11,9 +11,9 @@
 </div>
 
 <div align=center>
-  
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Swift-#FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
 
+[!뱃지이름](http://img.shields.io/badge/language-swift-orange&logo=#FA7343&logoColor=orange)
+  
 </div>
 
 
