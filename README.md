@@ -22,14 +22,6 @@ iOS 공부중
 </div>
 
 <div align=center>
-  
-<img src="https://img.shields.io/badge/iOS-black?style=flat&logo=Apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/ObjC-blue?style=flat"/>
-
-</div>
-
-<div align=center>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%238100C7&title_bg=%235A5A5A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false&logo=Github&logoColor=white)](https://hits.seeyoufarm.com) -->
   
@@ -38,6 +30,15 @@ iOS 공부중
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flxxyeon&count_bg=%2301BE48&title_bg=%23555555&icon=github.svg&icon_color=%23FFFDFD&title=hits&edge_flat=false"/></a>
   
 </div>
+
+<div align=center>
+  
+<img src="https://img.shields.io/badge/iOS-black?style=flat&logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/ObjC-blue?style=flat"/>
+
+</div>
+
 
 <div>
 </div>
