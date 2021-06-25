@@ -32,23 +32,15 @@ iOS 공부중
 
 </div>
 
-
-<div>
-</div>
-
+<span>
+</span> 
+  
 <div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=false&theme=default&hide=stars,contribs)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxyeon&layout=compact) -->
   
 </div>
-
-<!-- <div align=center>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lxxyeon&repo=Swift&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
-</div> -->
-
 
 
 <!--
