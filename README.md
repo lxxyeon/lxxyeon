@@ -16,6 +16,13 @@ iOS 공부중
 
 <div align=center>
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=false&theme=default&hide=stars,contribs)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxyeon&layout=compact) -->
+  
+</div>
+
+<div align=center>
+  
 <img src="https://img.shields.io/badge/iOS-black?style=flat&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/ObjC-blue?style=flat"/>
@@ -35,12 +42,6 @@ iOS 공부중
 <div>
 </div>
 
-<div align=center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=false&theme=default&hide=stars,contribs)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxyeon&layout=compact) -->
-  
-</div>
 
 
 <!-- <div align=center>
