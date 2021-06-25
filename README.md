@@ -14,12 +14,7 @@ iOS 공부중
 
 </div>
 
-<div align=center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=false&theme=default&hide=stars,contribs)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxyeon&layout=compact) -->
-  
-</div>
+
 
 <div align=center>
 
@@ -43,7 +38,12 @@ iOS 공부중
 <div>
 </div>
 
-
+<div align=center>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=false&theme=default&hide=stars,contribs)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxyeon&layout=compact) -->
+  
+</div>
 
 <!-- <div align=center>
   
