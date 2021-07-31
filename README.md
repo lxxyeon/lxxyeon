@@ -8,11 +8,11 @@
 Welcome👋🏻
 </h2>
 
-<div align=center>
+<!-- <div align=center>
   
 iOS 공부중
 
-</div>
+</div> -->
 
 <div align=center>
 
