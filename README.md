@@ -27,7 +27,7 @@ iOS 공부중
 <div align=center>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>   
-<img src="https://img.shields.io/badge/iOS-black?style=flat&logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-black?style=flat&logo=iOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/ObjC-blue?style=flat&logo=Apple&logoColor=white""/>
 <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
