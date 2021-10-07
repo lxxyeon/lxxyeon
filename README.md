@@ -32,6 +32,11 @@ iOS 공부중
 <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
                                                                               
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://lxxyeon.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=githubh&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="mailto:lxxyeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
 
 </div>
 
