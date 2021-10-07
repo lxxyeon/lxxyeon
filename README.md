@@ -29,6 +29,7 @@ iOS 공부중
 <img src="https://img.shields.io/badge/iOS-black?style=flat&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/ObjC-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 </div>
 
