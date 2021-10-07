@@ -34,8 +34,8 @@ iOS 공부중
                                                                               
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://lxxyeon.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-FFD400?style=flat&logo=TV Time&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="mailto:lxxyeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="https://lxxyeon.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-FFD400?style=flat&logo=TV Time&logoColor=white&link=https://lxxyeon.tistory.com"/></a>&nbsp
+  <a href="mailto:lxxyeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=lxxyeon@gmail.com"/></a>
 </p>
 
 
