@@ -31,7 +31,7 @@ iOS 공부중
 <img src="https://img.shields.io/badge/ObjC-blue?style=flat&logo=C&logoColor=white""/>
 <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
                                                      
 <h3 align="center">🌈 Follow Me 🌈</h3>
