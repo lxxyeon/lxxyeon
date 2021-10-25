@@ -26,16 +26,16 @@ iOS 공부중
 
 <div align=center>
 <h3 align="center">📚 Tech Stack 📚</h3>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>   
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-black?style=flat&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/ObjC-blue?style=flat&logo=C&logoColor=white""/>
 <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 
-출처: https://byul91oh.tistory.com/214 [개발하는 감자 [: 개감]]
                                                      
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
