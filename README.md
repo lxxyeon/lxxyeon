@@ -35,9 +35,10 @@ iOS 공부중
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
-<!-- </div>  -->
 
-<div align=center>                                                   
+
+
+
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://lxxyeon.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-FFD400?style=flat&logo=TV Time&logoColor=white&link=https://lxxyeon.tistory.com"/></a>&nbsp
