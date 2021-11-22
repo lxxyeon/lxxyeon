@@ -4,17 +4,17 @@
 
 </div>
 
-<h2 align=center>
+<h2 align=right>
 👋🏻 Welcome 👋🏻
 </h2>
 
-<!-- <div align=center>
+<!-- <div align=right>
   
 iOS 공부중
 
 </div> -->
 
-<!-- <div align=center>
+<!-- <div align=right>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%238100C7&title_bg=%235A5A5A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false&logo=Github&logoColor=white)](https://hits.seeyoufarm.com) -->
   
@@ -24,8 +24,8 @@ iOS 공부중
   
 <!-- </div>  -->
 
-<div align=center>
-<h3 align="center">📚 Tech Stack 📚</h3>
+<div align=right>
+<h3 align="right">📚 Tech Stack 📚</h3>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-black?style=flat&logo=Apple&logoColor=white"/>
@@ -39,8 +39,8 @@ iOS 공부중
 
 
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
+<h3 align="right">🌈 Follow Me 🌈</h3>
+<p align="right">
   <a href="https://lxxyeon.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-FFD400?style=flat&logo=TV Time&logoColor=white&link=https://lxxyeon.tistory.com"/></a>&nbsp
   <a href="mailto:lxxyeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=lxxyeon@gmail.com"/></a>
 </p>
@@ -51,7 +51,7 @@ iOS 공부중
 <span>
 </span> 
   
-<div align=center>
+<div align=right>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxyeon&show_icons=false&theme=default&hide=stars,contribs)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxyeon&layout=compact) -->
