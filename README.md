@@ -23,7 +23,7 @@
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flxxyeon&count_bg=%2301BE48&title_bg=%23555555&icon=github.svg&icon_color=%23FFFDFD&title=hits&edge_flat=false"/></a> -->
   
 <!-- </div>  -->
-
+<!-- 
 <div align=center>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>  
@@ -35,9 +35,10 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
+ -->
 
-
-
+### 
+iOS 개발자 입니다.
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
