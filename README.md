@@ -10,7 +10,7 @@
 
 <!-- <div align=center>
   
-iOS 공부중
+
 
 </div> -->
 
