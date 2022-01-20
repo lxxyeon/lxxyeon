@@ -5,7 +5,7 @@
 </div>
 
 <h2 align=center>
-👋🏻 Welcome 👋🏻
+👋🏻 Welcome lxxyeon's github 👋🏻
 </h2>
 
 <!-- <div align=center>
